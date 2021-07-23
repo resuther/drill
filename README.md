@@ -3,4 +3,4 @@
  all of these are made for my raspberry pi 4.
 
  this project is extremely organized.
- images/IMG_0095.jpg
+ <img>https://github.com/resuther/drill/blob/images/IMG_0086.jpg</img>
